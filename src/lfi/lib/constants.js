@@ -55,18 +55,5 @@ export const supportedPools = [
     tokenSymbol: 'LFI',
     icon: '⛷️',
   },
-    {
-    pid: 1,
-    lpAddresses: {
-      3: '0x506f33a8d8dd58d8208fba7498ff65e6a46c82be',
-    },
-    tokenAddresses: {
-      3: '0x433ae916213d87586c6e9af2b9c83ed7abc3d35e',
-    },
-    name: 'LSV Swag!',
-    symbol: 'LSV-ETH LLP',
-    tokenSymbol: 'LSV',
-    icon: '⛷️',
-  }
-  
+
 ]
