@@ -55,5 +55,4 @@ export const supportedPools = [
     tokenSymbol: 'LFI',
     icon: '⛷️',
   },
-
 ]
