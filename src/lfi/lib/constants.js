@@ -56,7 +56,7 @@ export const supportedPools = [
     icon: '⛷️',
   },
     {
-    pid: 0,
+    pid: 1,
     lpAddresses: {
       3: '0x7842ed9c2dc8784ad0343f78a6d1c56527620783',
     },
