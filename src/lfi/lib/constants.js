@@ -25,16 +25,16 @@ export const INTEGERS = {
 
 export const contractAddresses = {
   lfi: {
-    3: '0x2c8CA595e711f770613335c26CbB0086aDa90428',
+    3: '0x433ae916213d87586c6e9af2b9c83ed7abc3d35e',
   },
   masterChef: {
-    3: '0x1fBE8EA0e880f35B55C7845d4e832b8C6Cf51223',
+    3: '0x76DC8A850Cdc87D6901286765f6Eb383d9ad64D7',
   },
   weth: {
     3: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
   },
   xLfi: {
-    3: '0x213802F7D2874d1EaeD1cb4A28e6485C41600C75'
+    3: '0xb7f13863098F2420Dd1Da8357E123CebA05dA3bc'
   }
 }
 
@@ -45,10 +45,10 @@ export const supportedPools = [
   {
     pid: 0,
     lpAddresses: {
-      3: '0x2b73a8268f2430d155a82b612b9ec513f505a39e',
+      3: '0x433ae916213d87586c6e9af2b9c83ed7abc3d35e',
     },
     tokenAddresses: {
-      3: '0x2c8CA595e711f770613335c26CbB0086aDa90428',
+      3: '0x433ae916213d87586c6e9af2b9c83ed7abc3d35e',
     },
     name: 'Lfi Swag!',
     symbol: 'LFI-ETH LLP',
