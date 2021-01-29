@@ -17,22 +17,19 @@ const Nav: React.FC = () => {
         LfiSwap LFI-ETH
       </StyledLink> */}
       <StyledLink target="_blank" href="#">
-        Discord
+        Telegram
       </StyledLink>
-      <StyledLink target="_blank" href="#">
+      <StyledLink target="_blank" href="http://www.t.me/LFIFinance">
         Github
       </StyledLink>
-      <StyledLink target="_blank" href="#">
+      <StyledLink target="_blank" href="https://github.com/MdRezaIslam/defi-lsv">
         Twitter
       </StyledLink>
-      <StyledLink target="_blank" href="#">
-        Medium
-      </StyledLink>
-	  <StyledLink target="_blank" href="#">
+      <StyledLink target="_blank" href="http://www.twitter.com/lsvdefi">
         Facebook
       </StyledLink>
-    </StyledNav>
-  )
+	  <StyledLink target="_blank" href="http://www.facebook.com/lsvdefi.finance">
+)
 }
 
 const StyledNav = styled.nav`
