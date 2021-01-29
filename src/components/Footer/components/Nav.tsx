@@ -29,9 +29,9 @@ const Nav: React.FC = () => {
         Facebook
       </StyledLink>
 	  <StyledLink target="_blank" href="http://www.facebook.com/lsvdefi.finance">
-)
-}
-
+		  )
+		  }
+		  
 const StyledNav = styled.nav`
   align-items: center;
   display: flex;
