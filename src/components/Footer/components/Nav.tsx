@@ -42,7 +42,7 @@ const StyledLink = styled.a`
   padding-left: ${(props) => props.theme.spacing[3]}px;
   padding-right: ${(props) => props.theme.spacing[3]}px;
   text-decoration: none;
-  &:hover {
+  &:hover {V
     color: ${(props) => props.theme.color.grey[500]};
   }
 `
